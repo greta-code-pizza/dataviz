@@ -2,7 +2,7 @@
 
 Pour cette dernière soutenance le sujet est libre ! Il est possible de partir de votre projet jury ou du dashboard "Les Gardiens d'Amos". La bibliothèque de data-visualisation est, elle aussi, libre. 
 
-###Contraintes à respecter :
+### Contraintes à respecter :
 
 Interface utilisant React ou un autre framework / library, fonctionnant avec des composants front-end.
 
@@ -10,13 +10,13 @@ Réalisation d'un tableau de bord avec au moins quatre graphiques permettant de 
 
 Être kyu 5 en SQL sur codewars 
 
-###Déroulé de la soutenance :
+### Déroulé de la soutenance :
 
 - Présentation du dashboard
 - Présentation du code
 - Requêtes à partir de schéma
 
-###Les Gardiens d'Âmos
+### Les Gardiens d'Âmos
 
 Pour les personnes qui le souhaitent, il est possible de partir du jeu "Les Gardiens d'Âmos" et de se servir des données récoltés pour créer un dashboard de data-visualisation.
 
